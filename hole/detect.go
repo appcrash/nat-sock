@@ -1,0 +1,5 @@
+package hole
+
+func detect() {
+
+}
